@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/banner.png" alt="Kalindu Kaushan Banner" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Kalindu Kaushan Banner" width="100%" />
 </div>
 
 # 👋 Hi, I'm Kalindu Kaushan!
