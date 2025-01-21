@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJwbXBjZnBoNWNmc2c3c3R5bjllZnJhMHlzbzl4aDRvMDVobGQ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Aesthetic Banner" width="80%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJwbXBjZnBoNWNmc2c3c3R5bjllZnJhMHlzbzl4aDRvMDVobGQ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Aesthetic Banner" width="80% height="80%" />
 </div>
 
 # 👋 Hi, I'm Kalindu Kaushan!
