@@ -44,6 +44,15 @@
 
 ---
 
+## 🌍 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/-English-0078D4?style=flat-square&logo=language&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/-Sinhala-FFD700?style=flat-square&logo=language&logoColor=black" alt="Sinhala" />
+  <img src="https://img.shields.io/badge/-Tamil-FF5733?style=flat-square&logo=language&logoColor=white" alt="Tamil" />
+</div>
+
+---
+
 ## ⚙️ Skills
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
